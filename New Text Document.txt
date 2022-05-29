@@ -1,2 +1,5 @@
 blue 
 green 
+red
+purple 
+yellow
